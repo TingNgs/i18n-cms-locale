@@ -1,0 +1,5 @@
+{
+  "fileStructure": "locales/{lng}/{ns}",
+  "fileType": "json",
+  "basePath": ""
+}
