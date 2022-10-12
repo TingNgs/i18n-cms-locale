@@ -39,5 +39,6 @@
   "Creating branch": "Creating branch",
   "Updating config": "Updating config",
   "Fetching namespaces and languages": "Fetching namespaces and languages",
-  "Submit": "Submit"
+  "Submit": "Submit",
+  "Create new repository": "Create new repository"
 }
