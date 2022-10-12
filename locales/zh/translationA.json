@@ -15,6 +15,9 @@
   "Creating repository": " Repository 創建中",
   "Setting up repository": "Repository 設定中",
   "Create new repo fail": "創建新 repository 失敗，請確認權限或是否有相同名子的 repository",
+  "Github repository url": "Github repository url",
+  "Import": "引入",
+  "Invalid github url": "Github url 格式錯誤",
   "Submit": "送出",
   "Here update locale key": "新增新 repository"
 }
