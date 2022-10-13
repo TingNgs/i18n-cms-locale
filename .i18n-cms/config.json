@@ -1,5 +1,5 @@
 {
-  "fileStructure": "locales/{lng}/{ns}",
+  "fileStructure": "{lng}/{ns}",
   "fileType": "json",
   "basePath": ""
 }
