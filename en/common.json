@@ -2,6 +2,8 @@
   "Logout": "Logout",
   "Login With Github": "Login With Github",
   "Create": "Create",
+  "Delete": "Delete",
+  "Edit": "Edit",
   "Repository name": "Repository name",
   "Owner": "Owner",
   "Something went wrong": "Something went wrong",
