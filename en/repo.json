@@ -19,5 +19,6 @@
   "Saved successfully": "Saved successfully, you can check your commit <a href='{{link}}' target='_blank' rel='noopener noreferrer'>here</a>",
   "With duplicated keys": "With duplicated keys",
   "Duplicated key": "Duplicated key",
-  "Delete confirmation": "Are you sure you want to delete key <b><i>{{localeKey}}</i></b> ?"
+  "Delete confirmation": "Are you sure you want to delete key <b><i>{{localeKey}}</i></b> ?",
+  "New namespace": "New namespace"
 }
