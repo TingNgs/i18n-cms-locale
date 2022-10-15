@@ -4,6 +4,8 @@
   "Create": "Create",
   "Delete": "Delete",
   "Edit": "Edit",
+  "Submit": "Submit",
+  "Save": "Save",
   "Cancel": "Cancel",
   "Repository name": "Repository name",
   "Owner": "Owner",
@@ -12,6 +14,5 @@
   "File type": "File type",
   "File structure": "File structure",
   "Languages": "Languages",
-  "Namespaces": "Namespaces",
-  "Submit": "Submit"
+  "Namespaces": "Namespaces"
 }
