@@ -20,5 +20,6 @@
   "With duplicated keys": "With duplicated keys",
   "Duplicated key": "Duplicated key",
   "Delete confirmation": "Are you sure you want to delete key <b><i>{{localeKey}}</i></b> ?",
-  "New namespace": "New namespace"
+  "New namespace": "New namespace",
+  "Namespace already exist": "Namespace {{namespace}} already exist"
 }
