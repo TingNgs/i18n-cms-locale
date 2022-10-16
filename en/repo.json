@@ -30,5 +30,6 @@
   "Delete namespace": "Delete namespace <b><i>{{namespace}}</i></b>",
   "Delete namespace confirmation": "Are your sure you want to delete namespace <b><i>{{namespace}}</i></b> ?",
   "Delete language": "Delete language <b><i>{{language}}</i></b>",
-  "Delete language confirmation": "Are your sure you want to delete language <b><i>{{language}}</i></b> ?"
+  "Delete language confirmation": "Are your sure you want to delete language <b><i>{{language}}</i></b> ?",
+  "Changes you made may not be saved. Ary you sure you want to leave ?": "Changes you made may not be saved. Ary you sure you want to leave ?"
 }
