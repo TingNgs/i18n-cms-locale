@@ -26,5 +26,7 @@
   "New language": "New language",
   "Language already exist": "Language already exist",
   "Delete namespace": "Delete namespace <b><i>{{namespace}}</i></b>",
-  "Delete namespace confirmation": "Are your sure you want to delete namespace <b><i>{{namespace}}</i></b> ?"
+  "Delete namespace confirmation": "Are your sure you want to delete namespace <b><i>{{namespace}}</i></b> ?",
+  "Delete language": "Delete language <b><i>{{language}}</i></b>",
+  "Delete language confirmation": "Are your sure you want to delete language <b><i>{{language}}</i></b> ?"
 }
