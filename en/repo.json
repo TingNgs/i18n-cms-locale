@@ -1,4 +1,5 @@
 {
+  "Choose namespace you want to edit": "Choose namespace you want to edit",
   "Choose branch": "Choose branch",
   "Recent branches": "Recent branches",
   "Base on": "Base on",
@@ -16,5 +17,19 @@
   "Updating config": "Updating config",
   "Fetching namespaces and languages": "Fetching namespaces and languages",
   "Commit message": "Commit message",
-  "Saved successfully": "Saved successfully, you can check your commit <a href='{{link}}' target='_blank' rel='noopener noreferrer'>here</a>"
+  "Saved successfully": "Saved successfully, you can check your commit <a href='{{link}}' target='_blank' rel='noopener noreferrer'>here</a>",
+  "With duplicated keys": "With duplicated keys",
+  "Duplicated key": "Duplicated key",
+  "Please remove all duplicated key": "Please remove all duplicated key",
+  "Delete key": "Delete key <b><i>{{localeKey}}</i></b>",
+  "Delete key confirmation": "Are you sure you want to delete key <b><i>{{localeKey}}</i></b> ?",
+  "New namespace": "New namespace",
+  "Namespace already exist": "Namespace already exist",
+  "New language": "New language",
+  "Language already exist": "Language already exist",
+  "Delete namespace": "Delete namespace <b><i>{{namespace}}</i></b>",
+  "Delete namespace confirmation": "Are your sure you want to delete namespace <b><i>{{namespace}}</i></b> ?",
+  "Delete language": "Delete language <b><i>{{language}}</i></b>",
+  "Delete language confirmation": "Are your sure you want to delete language <b><i>{{language}}</i></b> ?",
+  "Changes you made may not be saved. Ary you sure you want to leave ?": "Changes you made may not be saved. Ary you sure you want to leave ?"
 }

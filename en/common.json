@@ -1,16 +1,24 @@
 {
   "Logout": "Logout",
-  "Login With Github": "Login With Github",
-  "Something went wrong": "Something went wrong",
-
+  "Login with Github": "Login with Github",
   "Create": "Create",
+  "Delete": "Delete",
+  "Edit": "Edit",
+  "Submit": "Submit",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Repository": "Repository",
   "Repository name": "Repository name",
+  "Branch": "Branch",
+  "Back to dashboard": "Back to dashboard",
   "Owner": "Owner",
+  "Something went wrong": "Something went wrong",
   "Base path": "Base path",
-  "File structure": "File structure",
   "File type": "File type",
+  "File structure": "File structure",
+  "Language": "Language",
   "Languages": "Languages",
+  "Default language": "Default language",
   "Namespaces": "Namespaces",
-
-  "Submit": "Submit"
+  "Namespace": "Namespace"
 }
