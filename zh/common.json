@@ -1,4 +1,15 @@
 {
   "Logout": "登出",
-  "Login with Github": "Login with Github"
+  "Login with Github": "Login with Github",
+  "Create": "創建",
+  "Delete": "刪除",
+  "Edit": "編輯",
+  "Submit": "提交",
+  "Save": "保存",
+  "Cancel": "取消",
+  "Repository": "Repository",
+  "Repository name": "Repository 名",
+  "Branch": "分支",
+  "Back to dashboard": "回到選單頁",
+  "Owner": "擁有者"
 }
