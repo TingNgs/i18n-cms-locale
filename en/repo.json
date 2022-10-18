@@ -17,7 +17,7 @@
   "Updating config": "Updating config",
   "Fetching namespaces and languages": "Fetching namespaces and languages",
   "Commit message": "Commit message",
-  "Saved successfully": "Saved successfully, you can check your commit <a href='{{link}}' target='_blank' rel='noopener noreferrer'>here</a>",
+  "Saved successfully": "Saved successfully, you can check your commit <a href='{{link}}' target='_blank' rel='noopener noreferrer'><u>here</u></a>",
   "With duplicated keys": "With duplicated keys",
   "Duplicated key": "Duplicated key",
   "Please remove all duplicated key": "Please remove all duplicated key",
