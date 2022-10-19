@@ -20,18 +20,5 @@
   "Languages": "Languages",
   "Default language": "Default language",
   "Namespaces": "Namespaces",
-  "Namespace": "Namespace",
-  "test_array": [
-    "test",
-    "array",
-    "qwe"
-  ],
-  "test_nested": {
-    "title": "hahaha",
-    "content": "yoyoyo",
-    "qqq": [
-      "1",
-      "2"
-    ]
-  }
+  "Namespace": "Namespace"
 }
