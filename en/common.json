@@ -21,14 +21,14 @@
   "Default language": "Default language",
   "Namespaces": "Namespaces",
   "Namespace": "Namespace",
-  "test_nested": {
-    "title": "hahaha",
-    "content": "yoyoyo",
-    "qqq": "qqq"
-  },
   "test_array": [
     "test",
     "array",
     "qwe"
-  ]
+  ],
+  "test_nested": {
+    "title": "hahaha",
+    "content": "yoyoyo",
+    "qqq": "qqq"
+  }
 }
