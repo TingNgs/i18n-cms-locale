@@ -3,10 +3,10 @@
   "Existing repository": "現有 repository",
   "Fetching repo": "取 repository 中",
   "Please import repo again": "請重新引入 repository",
-  "Create new repository": "創建新 repository",
+  "Create new Github repository": "創建新 Github repository",
   "Creating repository": "創建 repository 中",
   "Setting up repository": "設置 repository 中",
   "Create new repo fail": "創建 repository 失敗",
   "Setup new repo fail": "設置 repository 失敗，請刪除後重試",
-  "Import existing repository": "引入現在 repository"
+  "Import existing Github repository": "引入現在 Github repository"
 }
