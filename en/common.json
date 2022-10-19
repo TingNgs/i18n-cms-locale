@@ -29,6 +29,9 @@
   "test_nested": {
     "title": "hahaha",
     "content": "yoyoyo",
-    "qqq": "qqq"
+    "qqq": [
+      "1",
+      "2"
+    ]
   }
 }
