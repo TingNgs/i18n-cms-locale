@@ -21,5 +21,7 @@
   "Default language": "Default language",
   "Namespaces": "Namespaces",
   "Namespace": "Namespace",
-  "nested": "nested"
+  "nested": {
+    "qweqweasd": "nested"
+  }
 }
