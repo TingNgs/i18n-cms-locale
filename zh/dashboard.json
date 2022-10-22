@@ -1,7 +1,7 @@
 {
   "Add repository": "新增 repository",
   "Existing repository": "現有 repository",
-  "Fetching repo": "取 repository 中",
+  "Fetching repo": "正在獲取 repository",
   "Please import repo again": "請重新引入 repository",
   "Create new Github repository": "創建新 Github repository",
   "Creating repository": "創建 repository 中",
