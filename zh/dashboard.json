@@ -8,5 +8,9 @@
   "Setting up repository": "設置 repository 中",
   "Create new repo fail": "創建 repository 失敗",
   "Setup new repo fail": "設置 repository 失敗，請刪除後重試",
-  "Import existing Github repository": "引入現在 Github repository"
+  "Import existing Github repository": "引入現在 Github repository",
+  "Github repository url": "Github repository url",
+  "Import": "引入",
+  "Invalid github url": "Github repository url 格式錯誤",
+  "Without push permission in this repo": "在此 repository 沒有 push 權限"
 }
