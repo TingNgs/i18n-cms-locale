@@ -1,6 +1,6 @@
 {
   "header": {
-    "title": "Integrate this app into your GitHub repository, and help you to manage the translations",
+    "title": "Integrate this app into your GitHub repository, and help you manage the translations",
     "description": "Fetch translations from your git repository and commit them back directly. All translations are stored in your git repository for better versioning and publishing.",
     "start_description": "Get started with:"
   }
