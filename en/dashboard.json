@@ -12,5 +12,6 @@
   "Github repository url": "Github repository url",
   "Import": "Import",
   "Invalid github url": "Invalid github url",
-  "Without push permission in this repo": "Without push permission in this repository"
+  "Without push permission in this repo": "Without push permission in this repository",
+  "Setup repo warning": "If your repository is not created by i18n-cms, please make sure you already <a href=\"{{ url }}\" rel=\"noreferrer noopener\" target=\"_blank\" >setup your existing repository.</a>"
 }
