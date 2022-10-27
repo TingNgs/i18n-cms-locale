@@ -1,6 +1,7 @@
 {
   "Choose namespace you want to edit": "Choose namespace you want to edit",
   "Choose branch": "Choose branch",
+  "Branch alert": "We don't suggest editing the same branch with others at the same time, we won't handle any conflict.",
   "Recent branches": "Recent branches",
   "Base on": "Base on",
   "Use existing branch": "Use existing branch",
@@ -31,5 +32,7 @@
   "Delete namespace confirmation": "Are your sure you want to delete namespace <b><i>{{namespace}}</i></b> ?",
   "Delete language": "Delete language <b><i>{{language}}</i></b>",
   "Delete language confirmation": "Are your sure you want to delete language <b><i>{{language}}</i></b> ?",
-  "Changes you made may not be saved. Ary you sure you want to leave ?": "Changes you made may not be saved. Ary you sure you want to leave ?"
+  "Changes you made may not be saved": {
+    " Ary you sure you want to leave ?": "Changes you made may not be saved. Ary you sure you want to leave ?"
+  }
 }
