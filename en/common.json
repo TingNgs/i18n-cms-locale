@@ -26,5 +26,6 @@
   "Languages": "Languages",
   "Default language": "Default language",
   "Namespaces": "Namespaces",
-  "Namespace": "Namespace"
+  "Namespace": "Namespace",
+  "Setup repo warning": "If your repository is not created by i18n-cms, please make sure you already setup your existing repository."
 }
