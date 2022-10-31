@@ -1,6 +1,8 @@
 {
   "Add repository": "Add repository",
   "Existing repository": "Existing repository",
+  "Remove existing repository": "Remove from your existing repository",
+  "Remove existing repository confirmation": "Are your sure you want to remove <b><i>{{repo}}</i></b> from your existing repository?",
   "Fetching repo": "Fetching repository",
   "Please import repo again": "Please import repository again",
   "Create new Github repository": "Create new Github repository",
