@@ -4,6 +4,7 @@
   "Documentation": "文件",
   "Get Started": "開始",
   "Logout": "登出",
+  "Login with GitHub": "Login with GitHub",
   "Create": "創建",
   "Delete": "刪除",
   "Edit": "編輯",
@@ -24,5 +25,7 @@
   "Language": "語言",
   "Languages": "語言",
   "Default language": "預設語言",
+  "Namespaces": "Namespaces",
+  "Namespace": "Namespace",
   "Setup repo alert": "如果你的 repository 不是由 i18n-cms 創建，請確定你已經設置好你現有的 repository。"
 }
