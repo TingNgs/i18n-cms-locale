@@ -34,5 +34,6 @@
   "Delete language confirmation": "你確定你要刪除 Language <b><i>{{language}}</i></b> ?",
   "Changes you made may not be saved": {
     " Ary you sure you want to leave ?": "改動還未保存，你確定要離開嗎？"
-  }
+  },
+  "Filter": "篩選"
 }
