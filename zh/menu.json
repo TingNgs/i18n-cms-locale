@@ -1,6 +1,8 @@
 {
   "Add repository": "新增 repository",
   "Existing repository": "現有 repository",
+  "Remove existing repository": "從現有 repository 中刪除",
+  "Remove existing repository confirmation": "你確定要把 <b><i>{{repo}}</i></b> 從現有 repository 中刪除?",
   "Fetching repo": "正在獲取 repository",
   "Please import repo again": "請重新引入 repository",
   "Create new Github repository": "創建新 Github repository",
@@ -8,7 +10,7 @@
   "Setting up repository": "設置 repository 中",
   "Create new repo fail": "創建 repository 失敗",
   "Setup new repo fail": "設置 repository 失敗，請刪除後重試",
-  "Import existing Github repository": "引入現在 Github repository",
+  "Import existing Github repository": "引入現有 Github repository",
   "Github repository url": "Github repository url",
   "Import": "引入",
   "Invalid github url": "Github repository url 格式錯誤",

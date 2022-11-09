@@ -1,6 +1,8 @@
 {
   "Add repository": "Add repository",
   "Existing repository": "Existing repository",
+  "Remove existing repository": "Remove from your existing repository",
+  "Remove existing repository confirmation": "Are your sure you want to remove <b><i>{{repo}}</i></b> from your existing repository?",
   "Fetching repo": "Fetching repository",
   "Please import repo again": "Please import repository again",
   "Create new Github repository": "Create new Github repository",
@@ -12,6 +14,5 @@
   "Github repository url": "Github repository url",
   "Import": "Import",
   "Invalid github url": "Invalid github url",
-  "Without push permission in this repo": "Without push permission in this repository",
-  "Setup repo warning": "If your repository is not created by i18n-cms, please make sure you already setup your existing repository."
+  "Without push permission in this repo": "Without push permission in this repository"
 }

@@ -15,10 +15,10 @@
   "Repository name": "Repository name",
   "Branch": "Branch",
   "Home": "Home",
-  "Dashboard": "Dashboard",
-  "Back to dashboard": "Back to dashboard",
+  "Menu": "Menu",
+  "Back to menu": "Back to menu",
   "Owner": "Owner",
-  "Something went wrong": "Something went wrong",
+  "Something went wrong": "Something went wrong, please try again later.",
   "Base path": "Base path",
   "File type": "File type",
   "File structure": "File structure",
@@ -26,5 +26,9 @@
   "Languages": "Languages",
   "Default language": "Default language",
   "Namespaces": "Namespaces",
-  "Namespace": "Namespace"
+  "Namespace": "Namespace",
+  "Setup repo alert": "If your repository is not created by i18n-cms, please make sure you have already set up your existing repository.",
+  "This website uses cookies to improve user experience": "This website uses cookies to improve user experience",
+  "Learn more": "Learn more",
+  "Accept": "Accept"
 }

@@ -1,7 +1,8 @@
 {
   "en": "English",
   "zh": "中文",
-  "Get Started": "Get Started",
+  "Documentation": "文件",
+  "Get Started": "開始",
   "Logout": "登出",
   "Login with GitHub": "Login with GitHub",
   "Create": "創建",
@@ -13,10 +14,21 @@
   "Repository": "Repository",
   "Repository name": "Repository 名",
   "Branch": "分支",
-  "Back to dashboard": "回到選單頁",
+  "Home": "首頁",
+  "Menu": "選單",
+  "Back to menu": "回到選單",
   "Owner": "擁有者",
+  "Something went wrong": "發生錯誤，請稍後再試。",
+  "Base path": "基礎路徑",
+  "File type": "檔案類型",
   "File structure": "檔案結構",
   "Language": "語言",
   "Languages": "語言",
-  "Default language": "預設語言"
+  "Default language": "預設語言",
+  "Namespaces": "Namespaces",
+  "Namespace": "Namespace",
+  "Setup repo alert": "如果你的 repository 不是由 i18n-cms 創建，請確定你已經設置好你現有的 repository。",
+  "This website uses cookies to improve user experience": "本網站使用 Cookies 來確保您在我們網站上獲得最佳使用體驗。",
+  "Learn more": "了解更多",
+  "Accept": "同意"
 }
