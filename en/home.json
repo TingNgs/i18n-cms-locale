@@ -2,6 +2,6 @@
   "header": {
     "title": "Integrate i18n cms into your git repository, and help you manage the translations",
     "description": "i18n cms is a git-based CMS. We fetch translations from your git repository and commit them back directly. All translations are stored in your git repository for better versioning and publishing.",
-    "start_description": "Get started with:"
+    "start_subtitle": "Get started with:"
   }
 }

@@ -2,6 +2,6 @@
   "header": {
     "title": "導入 18n cms ，幫助你透過 git 管理翻譯",
     "description": "18n cms 是一個 git-based CMS。 直接從你的 git repository 存取你的翻譯。所有翻譯都會存放於你的 git repository，方便進行發佈與版本控制 。",
-    "start_description": "開始使用："
+    "start_subtitle": "開始使用："
   }
 }
