@@ -27,5 +27,8 @@
   "Default language": "預設語言",
   "Namespaces": "Namespaces",
   "Namespace": "Namespace",
-  "Setup repo alert": "如果你的 repository 不是由 i18n-cms 創建，請確定你已經設置好你現有的 repository。"
+  "Setup repo alert": "如果你的 repository 不是由 i18n-cms 創建，請確定你已經設置好你現有的 repository。",
+  "This website uses cookies to improve user experience": "本網站使用 Cookies 來確保您在我們網站上獲得最佳使用體驗。",
+  "Learn more": "了解更多",
+  "Accept": "同意"
 }

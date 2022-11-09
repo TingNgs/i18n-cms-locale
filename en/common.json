@@ -27,5 +27,8 @@
   "Default language": "Default language",
   "Namespaces": "Namespaces",
   "Namespace": "Namespace",
-  "Setup repo alert": "If your repository is not created by i18n-cms, please make sure you have already set up your existing repository."
+  "Setup repo alert": "If your repository is not created by i18n-cms, please make sure you have already set up your existing repository.",
+  "This website uses cookies to improve user experience": "This website uses cookies to improve user experience",
+  "Learn more": "Learn more",
+  "Accept": "Accept"
 }
