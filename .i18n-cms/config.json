@@ -1,6 +1,6 @@
 {
-  "fileStructure": "{lng}/{ns}",
   "fileType": "json",
-  "basePath": "",
+  "pattern": ":lng/:ns",
+  "languages": ["en", "zh"],
   "defaultLanguage": "en"
 }
