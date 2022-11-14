@@ -12,6 +12,7 @@
   "Config file not found in this branch": "Config file not found in this branch",
   "Branch already exists": "Branch already exists",
   "Protected branch not supported": "Protected branch not supported",
+  "Test Config": "Test Config",
   "Fetching branch": "Fetching branch",
   "Fetching config": "Fetching config",
   "Creating branch": "Creating branch",
