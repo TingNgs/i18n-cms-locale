@@ -18,7 +18,7 @@
   "Fetching branch": "Fetching branch",
   "Fetching config": "Fetching config",
   "Creating branch": "Creating branch",
-  "Updating config": "Updating config",
+  "Updating record": "Updating record",
   "Fetching namespaces and languages": "Fetching namespaces and languages",
   "Commit message": "Commit message",
   "Saved successfully": "Saved successfully, you can check your commit <a href='{{link}}' target='_blank' rel='noopener noreferrer'><u>here</u></a>",
