@@ -16,6 +16,8 @@
   "Use another branch": "Use another branch",
   "Test Config": "Test Config",
   "Namespaces not found": "Namespaces not found",
+  "Save config": "Save config",
+  "Save config description": "We will create a config file {{path}} in your repository.",
   "Fetching branch": "Fetching branch",
   "Fetching config": "Fetching config",
   "Creating branch": "Creating branch",
