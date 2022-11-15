@@ -17,7 +17,7 @@
   "Test Config": "測試設定",
   "Namespaces not found": "找不到 Namespaces",
   "Save config": "保存設定",
-  "Save config description": "我們會在你的 repository 創建一個設定檔。 {{path}}",
+  "Save config description": "我們會在你的 repository {{ path }} 創建一個設定檔。",
   "Fetching branch": "正在獲取分支",
   "Fetching config": "正在獲取設定",
   "Creating branch": "正在創建分支",
