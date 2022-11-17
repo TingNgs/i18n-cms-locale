@@ -9,6 +9,7 @@
   "Creating repository": "Creating repository",
   "Setting up repository": "Setting up repository",
   "Create new repo fail": "Create new repository fail",
+  "Repository name already exists on this owner": "Repository name already exists on this owner",
   "Setup new repo fail": "Setup new repository fail, please delete repository and create again",
   "Import existing Github repository": "Import existing Github repository",
   "Github repository url": "Github repository url",

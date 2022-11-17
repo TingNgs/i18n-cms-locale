@@ -9,6 +9,7 @@
   "Creating repository": "創建 repository 中",
   "Setting up repository": "設置 repository 中",
   "Create new repo fail": "創建 repository 失敗",
+  "Repository name already exists on this owner": "Repository 名字在此擁有者中已存在",
   "Setup new repo fail": "設置 repository 失敗，請刪除後重試",
   "Import existing Github repository": "引入現有 Github repository",
   "Github repository url": "Github repository url",
