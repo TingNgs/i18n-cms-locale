@@ -14,6 +14,7 @@
   "Import existing Github repository": "引入現有 Github repository",
   "Github repository url": "Github repository url",
   "Import": "引入",
+  "Repository not found": "找不到 Repository",
   "Invalid github url": "Github repository url 格式錯誤",
   "Without push permission in this repo": "在此 repository 沒有 push 權限"
 }
