@@ -14,7 +14,7 @@
   "Protected branch not supported": "不支援修改受保護的分支",
   "Setup config": "設置設定",
   "Use another branch": "用其他分支",
-  "Test Config": "測試設定",
+  "Test config": "測試設定",
   "Namespaces not found": "找不到 Namespaces",
   "Save config": "保存設定",
   "Save config description": "我們會在你的 repository {{ path }} 創建一個設定檔。",

@@ -14,7 +14,7 @@
   "Protected branch not supported": "Protected branch not supported",
   "Setup config": "Setup config",
   "Use another branch": "Use another branch",
-  "Test Config": "Test Config",
+  "Test config": "Test config",
   "Namespaces not found": "Namespaces not found",
   "Save config": "Save config",
   "Save config description": "We will create a config file {{ path }} in your repository.",
