@@ -11,7 +11,7 @@
   "Branch not found": "找不到分支",
   "Config file not found in this branch": "在此分支上找不到設定檔",
   "Branch already exists": "分支已存在",
-  "Edit / create protected branch not supported": "不支援修改／創建受保護的分支",
+  "Protected branch not supported": "不支援修改／創建受保護的分支",
   "Setup config": "設置設定",
   "Use another branch": "用其他分支",
   "Test config": "測試設定",
