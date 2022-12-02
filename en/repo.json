@@ -11,7 +11,7 @@
   "Branch not found": "Branch not found",
   "Config file not found in this branch": "Config file not found in this branch",
   "Branch already exists": "Branch already exists",
-  "Protected branch not supported": "Protected branch not supported",
+  "Edit / create protected branch not supported": "Edit / create protected branch not supported",
   "Setup config": "Setup config",
   "Use another branch": "Use another branch",
   "Test config": "Test config",
